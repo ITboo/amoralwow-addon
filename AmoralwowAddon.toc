@@ -1,0 +1,9 @@
+## Interface: 110007, 110100
+## Title: Amoralwow
+## Version: @project-version@
+## X-Category: Economy
+## X-Localizations: enUS, ruRU
+## Notes: Lightweight and simple addon to 
+## Author: itboo
+
+AmoralwowAddon.lua
